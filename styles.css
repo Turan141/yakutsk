@@ -194,6 +194,11 @@ body {
 		padding-top: 1.3rem;
 	}
 
+	.main_title_pic {
+		max-height: 150px;
+		overflow: hidden;
+	}
+
 	.main_title_text {
 		font-style: normal;
 		font-weight: 700;
@@ -213,7 +218,6 @@ body {
 
 	.relative_buttons {
 		margin-left: 1.4rem;
-		padding-top: 1rem;
 		margin-top: 0.5rem;
 		display: flex;
 		align-items: center;
@@ -1039,7 +1043,7 @@ body {
 	}
 
 	.section_main img {
-		border-radius: 15px;
+		max-width: 100%;
 	}
 
 	.adver_top {
@@ -1070,9 +1074,10 @@ body {
 	}
 
 	.main_title {
-		margin-left: 3rem;
-		padding-top: 3rem;
+		margin-left: 2rem;
+		padding-top: 2rem;
 		padding-left: 1rem;
+		padding-right: 2rem;
 	}
 
 	.main_title h1 {
@@ -1250,6 +1255,7 @@ body {
 
 	.section_main img {
 		border-radius: 15px;
+		max-width: 100%;
 	}
 
 	.adver_top {
