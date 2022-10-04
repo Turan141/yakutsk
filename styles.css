@@ -51,11 +51,6 @@ body {
 }
 
 @media screen and (max-width: 400px) {
-	news_title_pic {
-		max-height: 150px;
-		overflow: hidden;
-	}
-
 	.adver_corner {
 		display: none;
 	}
@@ -349,6 +344,10 @@ body {
 		height: 25px;
 		background-color: rgba(0, 187, 255, 0.8);
 		clip-path: polygon(19% 0, 89% 0, 52% 100%, 4% 100%);
+	}
+	.news_title_pic {
+		max-height: 150px;
+		overflow: hidden;
 	}
 }
 
@@ -933,6 +932,14 @@ body {
 		height: 35px;
 		background-color: rgba(0, 187, 255, 0.8);
 		clip-path: polygon(19% 0, 89% 0, 52% 100%, 4% 100%);
+	}
+}
+
+@media (max-width: 1025px) {
+	.news_title_pic {
+		max-height: 320px;
+		overflow: hidden;
+		margin-bottom: 1rem;
 	}
 }
 
