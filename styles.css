@@ -347,7 +347,6 @@ body {
 	}
 	.news_title_pic {
 		max-height: 150px;
-		overflow: hidden;
 	}
 }
 
@@ -943,7 +942,13 @@ body {
 	}
 }
 
-@media screen and (min-width: 1025px) and (max-width: 1500px) {
+@media (max-width: 400px) {
+	.news_title_pic {
+		max-height: 150px;
+	}
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1500px) {
 	.adver_corner {
 		display: none;
 	}
