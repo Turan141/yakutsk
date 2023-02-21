@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T07:42:44.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KmbjaeMVo-uJG-2qHubr" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T07:46:13.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E0AiZMdlj63BbmS1aNta" version="20.8.20" type="github">
   <diagram name="Страница 1" id="oehN8ZmwCmpnNLvUFqGc">
     <mxGraphModel dx="3247" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,9 +383,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qh4H7kqBszBU1m72KMqG-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qh4H7kqBszBU1m72KMqG-82" target="Qh4H7kqBszBU1m72KMqG-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Qh4H7kqBszBU1m72KMqG-82" value="Пятый" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-880" y="455" width="120" height="55" as="geometry" />
         </mxCell>
@@ -409,9 +406,6 @@
         </mxCell>
         <mxCell id="Qh4H7kqBszBU1m72KMqG-89" value="Шестой" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-880" y="545" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qh4H7kqBszBU1m72KMqG-90" value="Переход по умолчанию" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-895" y="510" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qh4H7kqBszBU1m72KMqG-91" value="Переход по умолчанию" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-895" y="610" width="150" height="30" as="geometry" />
